@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "src/src/index.css";
+import "./index.css";
 function Nav() {
   return (
     <nav className="nav">
