@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./index.css";
+import "src/src/index.css";
 function Nav() {
   return (
     <nav className="nav">
@@ -62,3 +62,4 @@ export default function App() {
     </div>
   );
 }
+
